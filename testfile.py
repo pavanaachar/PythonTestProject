@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-print "hello webhook!"
+print "hello deployer!"
